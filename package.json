@@ -1,0 +1,23 @@
+{
+  "name": "testingWJest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knottyChive/testingWJest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knottyChive/testingWJest/issues"
+  },
+  "homepage": "https://github.com/knottyChive/testingWJest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
